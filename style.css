@@ -131,6 +131,8 @@ body {
 }
 .dashboard-preview__panel--active {
   display: block;
+  overflow-y: auto;
+  height: 100%;
 }
 .dashboard-preview__header {
   margin: 0 0 9.5rem;
