@@ -4,7 +4,11 @@ html {
 }
 
 body {
+  height: 100%
   background: linear-gradient(to top right, #7c89d5, #f599a5);
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: #C0C3C9;
   font-family: "Open Sans";
   font-size: 0.75rem;
